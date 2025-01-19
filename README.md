@@ -1,12 +1,13 @@
-#Spam Email Detection using PGP
-
-<p1>Description<p1> : 
-
-<p3>Pretty Good Privacy (PGP) is a powerful and widely-used encryption method that combines symmetric and public-key cryptography to ensure secure communication. 
+# SPAM EMAIL DETECTION USING PGP
+ 
+<h4>Project Overview : </h4><br>
+Pretty Good Privacy (PGP) is a powerful and widely-used encryption method that combines symmetric and public-key cryptography to ensure secure communication. 
 By encrypting data with a symmetric session key and protecting that key using the recipient’s public key, PGP guarantees confidentiality. 
 Its digital signature feature also provides message integrity and authentication, ensuring that data remains untampered and the sender’s identity is verified. 
-<p3>
 
-<p1>Result<p1> : 
+
+<h4>Result<h4> : 
 
 ![image](https://github.com/user-attachments/assets/c9f14fd3-2f48-4e60-80fa-c2fbd693076b)
+
+
