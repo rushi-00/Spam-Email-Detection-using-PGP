@@ -43,4 +43,4 @@ Its digital signature feature also provides message integrity and authentication
    - *Signature*: Paste the signature from the "Encrypted/Decrypted Message" field into the "Encrypted/Decrypted Message" box.
    - Click "Verify Signature" to verify the validity of the signature.
 
-This is how you can test the full flow of your PGP GUI system.
+
